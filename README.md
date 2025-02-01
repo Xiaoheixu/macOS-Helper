@@ -1,6 +1,3 @@
-Here’s the revised version of your `README.md` without the GitHub repository URL and other specific GitHub-related content. This version keeps the focus on the tool itself and its usage:
-
-```markdown
 # macOS小助手 (macOS Helper)
 
 **macOS小助手** is a powerful and intuitive driver downloader tool for **macOS**, supporting **Windows 7-11** systems. Built using **Python** and **QtPy5**, this tool helps users quickly download the latest drivers from an official source.
