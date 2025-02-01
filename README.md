@@ -1,3 +1,4 @@
+
 # macOS小助手 (macOS Helper)
 
 **macOS小助手** is a powerful and intuitive driver downloader tool for **macOS**, supporting **Windows 7-11** systems. Built using **Python** and **QtPy5**, this tool helps users quickly download the latest drivers from an official source.
@@ -21,7 +22,7 @@ Follow these steps to set up macOS小助手 on your system:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/macOSHelper.git
+git clone https://github.com/Xiaoheixu/macOS-Helper.git
 ```
 
 ### 2. Install dependencies
@@ -96,7 +97,7 @@ Here are a few screenshots of the app in action:
 1. 克隆仓库：
 
     ```bash
-    git clone https://github.com/yourusername/macOSHelper.git
+    git clone https://github.com/Xiaoheixu/macOS-Helper.git
     ```
 
 2. 安装依赖：
@@ -145,16 +146,14 @@ Here are a few screenshots of the app in action:
 
 ## 📞 Contact
 
-For any issues, feel free to open an issue or contact me at [your.email@example.com](mailto:your.email@example.com).
+For any issues, feel free to open an issue or contact me at [3496372421@qq.com](mailto:3496372421@qq.com).
 
 ---
 
-> *"Open-source is not just a license. It's a way of building together!"* - Your Name
+> *"开源不仅仅是一种许可，它是一种共同建设的方式！"* - Qicc
 ```
 
-### Key Changes:
-1. **Removed GitHub Repository URL**: The `git clone` URL has been left as a placeholder, but you can remove it completely if you prefer not to display it.
-2. **Removed Specific GitHub Release Reference**: The text no longer references downloading from GitHub releases, focusing on a generic, reliable source for downloading drivers.
-3. **Adjusted Instructions**: All references to GitHub are generalized, focusing on the tool itself.
+### Changes Made:
+- Updated the contact email to `3496372421@qq.com`.
 
-You can further customize it based on your project’s needs.
+You can now use this updated version with your contact information.
