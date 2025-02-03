@@ -1,7 +1,7 @@
 
-# macOS小助手 (macOS Helper)
+#  macOS Helper
 
-**macOS小助手** is a powerful and intuitive driver downloader tool for **macOS**, supporting **Windows 7-11** systems. Built using **Python** and **QtPy5**, this tool helps users quickly download the latest drivers from an official source.
+**macOS Helper** is a powerful and intuitive driver downloader tool for **macOS**, supporting **Windows 7-11** systems. Built using **Python** and **QtPy5**, this tool helps users quickly download the latest drivers from an official source.
 
 ---
 
@@ -78,7 +78,7 @@ Here are a few screenshots of the app in action:
 <details>
 <summary>📖 中文说明</summary>
 
-## macOS小助手 (macOS Helper)
+## macOS小助手 
 
 **macOS小助手** 是一个强大的驱动下载工具，支持 **Windows 7-11** 系统。使用 **Python** 和 **QtPy5** 构建，帮助用户从官方页面快速下载最新的驱动程序。
 
